@@ -82,3 +82,5 @@ Once downloaded, activate your virtual environment and run by ____________
 
 `poetry init`
 `poetry shell`
+`pmp runserver`
+`open 127.0.0.1:8000/admin`
